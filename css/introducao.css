@@ -39,38 +39,48 @@
     }
 
     .introducao img {
-        width: 60%;
-        justify-self: center;
+        width: 70%;
+        /* justify-self: center; */
     }
 
     .introducao h1 {
-        font-size: 2rem;
+        font-size: 2.5rem;
     }
 
     .introducao p {
-        font-size: 0.75rem;
+        font-size: 1rem;
     }
 
     .introducao h1::before {
-        width: 10%;
-        height: 10%;
-        left: 0px;
-        top: -8px;
+        background: url("../img/detalhe-menor.svg") no-repeat center;
+        width: 63px;
+        height: 49px;
+        left: -16px;
+        top: -3px;
     }
 }
 
 @media (max-width:600px) {
     .introducao h1 {
-        font-size: 1.5rem;
+        font-size: 2.25rem;
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:500px) {
     .introducao {
         grid-template-columns: 1fr;
     }
-
     .introducao img {
         display: none;
+    }
+    .introducao h1 {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width:415px) {
+
+    .introducao h1 {
+        font-size: 2.5rem;
     }
 }

@@ -73,3 +73,48 @@
     background-color: #fff;
     padding: 5px 10px;
 }
+
+@media (max-width:800px) {
+    .experiencia {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .experiencia .subtitulo {
+        font-size: 3rem;
+        color: #141414;
+        max-width: initial;
+        text-transform: capitalize;
+    }
+
+    .experiencia-texto {
+        font-size: 1.25rem;
+    }
+
+    .empresa-ano {
+        position: initial;
+        order: 1;
+        width: initial;
+        text-align: left;
+    }
+}
+
+@media (max-width:415px) {
+
+    .experiencia .subtitulo {
+        font-size: 2rem;
+    }
+
+    .experiencia-texto  {
+        font-size: 1rem;
+        margin-bottom: 30px;
+    }
+
+    .empresa {
+        grid-template-columns: 1fr;
+    }
+
+    .empresa-cargo {
+        color: #525252;
+    }
+}

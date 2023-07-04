@@ -35,3 +35,9 @@ header {
         border-radius: 4px;
     }
 }
+
+@media (max-width:415px) {
+    .header-menu a {
+        font-size: 1rem;
+    }
+}
