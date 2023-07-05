@@ -5,17 +5,6 @@
   position: relative;
 }
 
-.formacao::after {
-    content: "";
-    display: block;
-    background: url("../img/detalhe.svg") no-repeat center;
-    width: 130px;
-    height: 100px;
-    bottom: -50px;
-    left: 20px;
-    position: absolute;
-}
-
 .formacao .subtitulo {
   color: #000;
   max-width: 5ch;
