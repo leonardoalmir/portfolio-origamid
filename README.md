@@ -13,19 +13,12 @@ https://www.figma.com/file/jV4nUiOf2d6EITB4AodQC8/Portf%C3%B3lio-Origamid?type=d
 ## O que foi possível aplicar e aprofundar neste projeto:
 
 - Grid;
-
 - Flexbox;
-
 - Pseudo-classes.
-
 - Pseudo-elementos;
-
 - Media query;
-
 - Lighthouse Google Chrome.
-
 - Otimização de imagens;
-
 - Semãntica e Acessibilidade.
-
 - Técnicas de design (Cores e tipografia).
+- Utilizando o Figma para pegar informações de conteúdo e design.
