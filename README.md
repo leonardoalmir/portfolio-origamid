@@ -7,6 +7,9 @@ Neste projeto desenvolvemos uma página de Portfólio usando HTML e CSS. Foi int
 Link da última versão do site:
 https://leonardoalmir.github.io/portfolio-origamid/
 
+Link do projeto no Figma:
+https://www.figma.com/file/jV4nUiOf2d6EITB4AodQC8/Portf%C3%B3lio-Origamid?type=design&node-id=10%3A0&mode=design&t=dZtUO5ZDakdTkpcb-1
+
 ## O que foi possível aplicar e aprofundar neste projeto:
 
 - Grid;
